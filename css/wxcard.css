@@ -6,13 +6,13 @@
   position: absolute;
   z-index: 99;
   top: -160px;
-  right: 30px;
+  left: 30px;
   width: 10rem;
   max-width: none;
   height: 150px;
   width: 275px;
   transform: scale(0);
-  transform-origin: bottom right;
+  transform-origin: bottom left;
   opacity: 0;
   -webkit-transition: all .4s ease-in-out;
   -o-transition: all .4s ease-in-out;
